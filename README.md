@@ -23,7 +23,7 @@ Recognized with **1st Place at the TSA State Conference** for Video Game 3D Desi
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3ni8ma&show_icons=true&count_private=true&hide_border=true&title_color=D946EF&icon_color=6366F1&text_color=a5b4fc&bg_color=0A0A0A&border_radius=16&include_all_commits=true" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api?username=3ni8ma&show_icons=true&count_private=true&hide_border=true&title_color=D946EF&icon_color=6366F1&text_color=a5b4fc&bg_color=0A0A0A&border_radius=16" width="420" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3ni8ma&layout=compact&hide_border=true&title_color=22D3EE&text_color=67e8f9&bg_color=0A0A0A&border_radius=16&langs_count=6" width="350" />
 </p>
 
