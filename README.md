@@ -1,12 +1,3 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3ni8ma/3ni8ma/main/header.svg" />
-    <img alt="Aarush Karak" src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/main/header.svg" width="800" />
-  </picture>
-</p>
-
-<br/>
-
 <!-- TYPING SVG INTRO -->
 <p align="center">
   <a href="https://git.io/typing-svg">
