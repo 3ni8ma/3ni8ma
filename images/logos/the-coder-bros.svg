@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+  <defs>
+    <linearGradient id="cbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D946EF"/>
+      <stop offset="50%" stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+  <rect width="40" height="40" rx="8" fill="#151515" stroke="url(#cbg)" stroke-width="1"/>
+  <text x="20" y="15" font-family="monospace" font-size="9" font-weight="bold" fill="#D946EF" text-anchor="middle">&lt;/&gt;</text>
+  <text x="20" y="24" font-family="Arial, sans-serif" font-size="5" font-weight="bold" fill="#A1A1AA" letter-spacing="0.5" text-anchor="middle">CODER</text>
+  <text x="20" y="32" font-family="Arial, sans-serif" font-size="7" font-weight="900" fill="#FFFFFF" letter-spacing="1" text-anchor="middle">BROS</text>
+</svg>

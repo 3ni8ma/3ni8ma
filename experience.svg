@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560">
+  <defs>
+    <filter id="card-shadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="12" stdDeviation="24" flood-color="#000" flood-opacity="0.5"/>
+    </filter>
+    <filter id="dot-glow-p">
+      <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#D946EF" flood-opacity="0.8"/>
+    </filter>
+    <filter id="dot-glow-s">
+      <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#6366F1" flood-opacity="0.8"/>
+    </filter>
+    <filter id="dot-glow-a">
+      <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#22D3EE" flood-opacity="0.8"/>
+    </filter>
+    <linearGradient id="shimmer" x1="0%" y1="0%" x2="200%" y2="0%">
+      <stop offset="0%" stop-color="#D946EF"/>
+      <stop offset="25%" stop-color="#6366F1"/>
+      <stop offset="50%" stop-color="#22D3EE"/>
+      <stop offset="75%" stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#D946EF"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="0,0;-0.5,0;0,0" dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="top-border" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#D946EF" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#22D3EE" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#D946EF" stop-opacity="0.8"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="0,0;-0.5,0;0,0" dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="timeline-line" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#D946EF" stop-opacity="0.5"/>
+      <stop offset="50%" stop-color="#6366F1" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0.5"/>
+    </linearGradient>
+    <radialGradient id="orb-pink" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#D946EF" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#D946EF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb-indigo" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#6366F1" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#6366F1" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Card background -->
+  <rect x="0" y="0" width="800" height="560" rx="20" fill="#0A0A0A" filter="url(#card-shadow)"/>
+  <rect x="0.5" y="0.5" width="799" height="559" rx="20" fill="none" stroke="rgba(255,255,255,0.05)" stroke-width="1"/>
+  <rect x="30" y="0" width="740" height="3" rx="1.5" fill="url(#top-border)"/>
+  <rect x="30" y="557" width="740" height="3" rx="1.5" fill="url(#top-border)"/>
+
+  <!-- Background orbs -->
+  <circle cx="680" cy="100" r="80" fill="url(#orb-pink)">
+    <animate attributeName="cy" values="90;115;90" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="80;100;80" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="100" cy="480" r="70" fill="url(#orb-indigo)">
+    <animate attributeName="cy" values="490;470;490" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="70;85;70" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Title -->
+  <text x="400" y="48" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="url(#shimmer)" text-anchor="middle" letter-spacing="2">✦ Experience ✦</text>
+
+  <!-- Timeline line -->
+  <line x1="80" y1="70" x2="80" y2="530" stroke="url(#timeline-line)" stroke-width="2" stroke-linecap="round">
+    <animate attributeName="opacity" values="0.4;0.8;0.4" dur="3s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- ENTRY 1: CommunityOne -->
+  <g>
+    <circle cx="80" cy="88" r="6" fill="#D946EF" filter="url(#dot-glow-p)">
+      <animate attributeName="r" values="6;8;6" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <image href="./images/logos/communityone.png" x="104" y="76" width="24" height="24" rx="4" preserveAspectRatio="xMidYMid meet" opacity="0.9"/>
+    <text x="140" y="93" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#ffffff">Back End Developer</text>
+    <text x="310" y="93" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#6366F1" font-weight="500">CommunityOne</text>
+    <text x="530" y="93" font-family="'SF Mono', 'Fira Code', monospace" font-size="11" fill="#A1A1AA" text-anchor="end">Jun 2026 – Present</text>
+    <text x="140" y="116" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#a5b4fc">Open-source civic data platforms, public records &amp; legislative datasets</text>
+  </g>
+
+  <!-- ENTRY 2: Chingu -->
+  <g>
+    <circle cx="80" cy="160" r="6" fill="#6366F1" filter="url(#dot-glow-s)">
+      <animate attributeName="r" values="6;8;6" dur="2s" repeatCount="indefinite" begin="0.3s"/>
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite" begin="0.3s"/>
+    </circle>
+    <image href="./images/logos/chingu.png" x="104" y="148" width="24" height="24" rx="4" preserveAspectRatio="xMidYMid meet" opacity="0.9"/>
+    <text x="140" y="165" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#ffffff">Web Developer</text>
+    <text x="310" y="165" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#6366F1" font-weight="500">Chingu</text>
+    <text x="530" y="165" font-family="'SF Mono', 'Fira Code', monospace" font-size="11" fill="#A1A1AA" text-anchor="end">Jun 2026 – Present</text>
+    <text x="140" y="188" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#a5b4fc">6-week Agile cohort — automated pipelines with Python, PostgreSQL, React/Node.js</text>
+  </g>
+
+  <!-- ENTRY 3: Hack Club -->
+  <g>
+    <circle cx="80" cy="232" r="6" fill="#22D3EE" filter="url(#dot-glow-a)">
+      <animate attributeName="r" values="6;8;6" dur="2s" repeatCount="indefinite" begin="0.6s"/>
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite" begin="0.6s"/>
+    </circle>
+    <image href="./images/logos/hackclub.svg" x="104" y="220" width="24" height="24" rx="4" preserveAspectRatio="xMidYMid meet" opacity="0.9"/>
+    <text x="140" y="237" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#ffffff">Application Developer</text>
+    <text x="310" y="237" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#6366F1" font-weight="500">Hack Club</text>
+    <text x="530" y="237" font-family="'SF Mono', 'Fira Code', monospace" font-size="11" fill="#A1A1AA" text-anchor="end">Jun 2025 – Present</text>
+    <text x="140" y="260" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#a5b4fc">Full-stack mobile/web apps with serverless architecture &amp; low-latency databases</text>
+  </g>
+
+  <!-- ENTRY 4: Fiverr -->
+  <g>
+    <circle cx="80" cy="304" r="6" fill="#D946EF" filter="url(#dot-glow-p)">
+      <animate attributeName="r" values="6;8;6" dur="2s" repeatCount="indefinite" begin="0.9s"/>
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite" begin="0.9s"/>
+    </circle>
+    <image href="./images/logos/fiverr.svg" x="104" y="292" width="24" height="24" rx="4" preserveAspectRatio="xMidYMid meet" opacity="0.9"/>
+    <text x="140" y="309" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#ffffff">Web Developer</text>
+    <text x="310" y="309" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#6366F1" font-weight="500">Fiverr</text>
+    <text x="530" y="309" font-family="'SF Mono', 'Fira Code', monospace" font-size="11" fill="#A1A1AA" text-anchor="end">Apr 2025 – Present</text>
+    <text x="140" y="332" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#a5b4fc">$5,000+ in freelance — 3D environments, AI applications, financial analytics</text>
+  </g>
+
+  <!-- ENTRY 5: The Coder Bros -->
+  <g>
+    <circle cx="80" cy="376" r="6" fill="#6366F1" filter="url(#dot-glow-s)">
+      <animate attributeName="r" values="6;8;6" dur="2s" repeatCount="indefinite" begin="1.2s"/>
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite" begin="1.2s"/>
+    </circle>
+    <image href="./images/logos/the-coder-bros.svg" x="104" y="364" width="24" height="24" rx="4" preserveAspectRatio="xMidYMid meet" opacity="0.9"/>
+    <text x="140" y="381" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#ffffff">Co-Founder &amp; CEO</text>
+    <text x="310" y="381" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#6366F1" font-weight="500">The Coder Bros</text>
+    <text x="530" y="381" font-family="'SF Mono', 'Fira Code', monospace" font-size="11" fill="#A1A1AA" text-anchor="end">Jul 2023 – Present</text>
+    <text x="140" y="404" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#a5b4fc">Student-led tech initiative — AI, web development, &amp; spatial computing</text>
+  </g>
+
+  <!-- ENTRY 6: Sci-Tech Discovery Center -->
+  <g>
+    <circle cx="80" cy="448" r="6" fill="#22D3EE" filter="url(#dot-glow-a)">
+      <animate attributeName="r" values="6;8;6" dur="2s" repeatCount="indefinite" begin="1.5s"/>
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite" begin="1.5s"/>
+    </circle>
+    <image href="./images/logos/scitech.png" x="104" y="436" width="24" height="24" rx="4" preserveAspectRatio="xMidYMid meet" opacity="0.9"/>
+    <text x="140" y="453" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#ffffff">Maker Studio Teen Intern</text>
+    <text x="310" y="453" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#6366F1" font-weight="500">Sci-Tech Discovery Center</text>
+    <text x="530" y="453" font-family="'SF Mono', 'Fira Code', monospace" font-size="11" fill="#A1A1AA" text-anchor="end">Jun 2025 – Sep 2025</text>
+    <text x="140" y="476" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#a5b4fc">40+ hours in competitive STEM makerspace; youngest accepted intern</text>
+  </g>
+</svg>

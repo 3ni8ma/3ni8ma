@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 260" width="800" height="260">
+  <defs>
+    <filter id="card-shadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="12" stdDeviation="24" flood-color="#000" flood-opacity="0.5"/>
+    </filter>
+    <linearGradient id="shimmer" x1="0%" y1="0%" x2="200%" y2="0%">
+      <stop offset="0%" stop-color="#D946EF"/>
+      <stop offset="25%" stop-color="#6366F1"/>
+      <stop offset="50%" stop-color="#22D3EE"/>
+      <stop offset="75%" stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#D946EF"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="0,0;-0.5,0;0,0" dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="top-border" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#D946EF" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#22D3EE" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#D946EF" stop-opacity="0.8"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="0,0;-0.5,0;0,0" dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="glow-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D946EF"/>
+      <stop offset="33%" stop-color="#6366F1"/>
+      <stop offset="66%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#D946EF"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="0,0;0.5,0.5;0,0" dur="3s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="orb-pink" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#D946EF" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#D946EF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb-indigo" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#6366F1" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#6366F1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb-cyan" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="0" y="0" width="800" height="260" rx="20" fill="#0A0A0A" filter="url(#card-shadow)"/>
+  <rect x="0.5" y="0.5" width="799" height="259" rx="20" fill="none" stroke="rgba(255,255,255,0.05)" stroke-width="1"/>
+  <rect x="30" y="0" width="740" height="3" rx="1.5" fill="url(#top-border)"/>
+  <rect x="30" y="257" width="740" height="3" rx="1.5" fill="url(#top-border)"/>
+
+  <circle cx="640" cy="60" r="70" fill="url(#orb-pink)">
+    <animate attributeName="cy" values="50;75;50" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="70;90;70" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="700" cy="200" r="60" fill="url(#orb-indigo)">
+    <animate attributeName="cy" values="210;185;210" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="60;75;60" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="100" cy="200" r="50" fill="url(#orb-cyan)">
+    <animate attributeName="cy" values="190;210;190" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="50;65;50" dur="8s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="85%" cy="15%" r="1.5" fill="#22D3EE">
+    <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="90%" cy="40%" r="1" fill="#D946EF">
+    <animate attributeName="opacity" values="0;1;0" dur="2.4s" repeatCount="indefinite" begin="0.3s"/>
+  </circle>
+  <circle cx="15%" cy="85%" r="1" fill="#6366F1">
+    <animate attributeName="opacity" values="0;1;0" dur="1.8s" repeatCount="indefinite" begin="0.6s"/>
+  </circle>
+  <circle cx="88%" cy="80%" r="1" fill="#22D3EE">
+    <animate attributeName="opacity" values="0;1;0" dur="2.2s" repeatCount="indefinite" begin="0.9s"/>
+  </circle>
+
+  <g transform="translate(36, 52)">
+    <rect x="-3" y="-3" width="106" height="139" rx="15" fill="none" stroke="url(#glow-border)" stroke-width="3" opacity="0.9">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite"/>
+    </rect>
+    <image href="./images/profile.jpg" width="100" height="133" rx="12" preserveAspectRatio="xMidYMid slice"/>
+  </g>
+
+  <text x="160" y="82" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="32" font-weight="800" fill="url(#shimmer)" letter-spacing="-0.3">Aarush Karak</text>
+  <text x="160" y="108" font-family="'SF Mono', 'Fira Code', 'Cascadia Code', 'JetBrains Mono', Consolas, monospace" font-size="13" fill="#A1A1AA" letter-spacing="3">
+    <tspan fill="#D946EF" font-weight="600">@</tspan>3ni8ma
+  </text>
+  <text x="160" y="130" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#67e8f9" opacity="0.8">Software Developer · Founder · Student</text>
+
+  <text x="160" y="160" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#a5b4fc">
+    <tspan x="160" dy="0">Sophomore at John Fraser Secondary School, Founder of</tspan>
+    <tspan x="160" dy="20">The Coder Bros. Building across the full stack — from</tspan>
+    <tspan x="160" dy="20">AI-powered platforms to 3D spatial interfaces.</tspan>
+  </text>
+
+  <g transform="translate(160, 218)">
+    <rect x="0" y="0" width="220" height="24" rx="12" fill="rgba(34,211,238,0.1)" stroke="rgba(34,211,238,0.2)" stroke-width="1"/>
+    <text x="14" y="16" font-family="'SF Mono', 'Fira Code', monospace" font-size="11" fill="#67e8f9">📍 Greater Toronto Area, Canada</text>
+  </g>
+</svg>
