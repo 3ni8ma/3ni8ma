@@ -25,12 +25,9 @@
 
 <!-- STATS -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3ni8ma&show_icons=true&count_private=true&hide_border=true&title_color=D946EF&icon_color=6366F1&text_color=a5b4fc&bg_color=0A0A0A&border_radius=16" width="420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3ni8ma&layout=compact&hide_border=true&title_color=22D3EE&text_color=67e8f9&bg_color=0A0A0A&border_radius=16&langs_count=6" width="350" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=3ni8ma&hide_border=true&background=0A0A0A&stroke=6366F1&ring=D946EF&fire=D946EF&currStreakNum=ffffff&sideNums=a5b4fc&currStreakLabel=22D3EE&sideLabels=a5b4fc&dates=6366F1" width="780" />
+  <img src="https://img.shields.io/badge/Contributions-33-D946EF?style=for-the-badge&labelColor=151515" />
+  <img src="https://img.shields.io/badge/Stars-19-22D3EE?style=for-the-badge&labelColor=151515" />
+  <img src="https://img.shields.io/badge/Streak-1%20Day-6366F1?style=for-the-badge&labelColor=151515" />
 </p>
 
 <br/>
