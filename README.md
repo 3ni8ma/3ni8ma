@@ -35,7 +35,7 @@
 
 <br/>
 
-<!-- SNAKE -- will animate after first workflow run -->
+<!-- SNAKE -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3ni8ma/3ni8ma/output/github-snake-dark.svg" />
@@ -46,7 +46,7 @@
 
 <br/>
 
-<!-- 3D CONTRIB -- will render after first workflow run -->
+<!-- 3D CONTRIB -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="780" />
 </p>
@@ -55,7 +55,7 @@
 
 <!-- SKILL ICONS -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,java,cpp,react,nodejs,threejs,postgres,arduino&perline=6&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,java,cpp,react,nodejs,threejs,postgres,arduino,tailwind,vite&perline=7&theme=dark" alt="Skills" />
 </p>
 
 <br/>
@@ -101,6 +101,58 @@
 <code>AI</code> <code>React</code> <code>Node.js</code>
 <br/>
 <a href="https://github.com/3ni8ma/Fixmate-App"><img src="https://img.shields.io/badge/View_on_GitHub-0A0A0A?style=flat-square&logo=github&logoColor=D946EF" /></a>
+
+</details>
+
+<br/>
+
+<!-- OPEN SOURCE TOOLS -->
+<details>
+<summary><b>🧰 Open Source Tools</b></summary>
+<br/>
+
+<b>react-hooks</b> — Collection of production-ready React hooks
+<br/>
+<code>React</code> <code>TypeScript</code>
+<br/>
+<a href="https://github.com/3ni8ma/react-hooks"><img src="https://img.shields.io/badge/View_on_GitHub-0A0A0A?style=flat-square&logo=github&logoColor=22D3EE" /></a>
+<img src="https://img.shields.io/github/stars/3ni8ma/react-hooks?style=flat-square&label=Stars&labelColor=151515&color=22D3EE" />
+
+<br/><br/>
+
+<b>vite-plugin-sitemap</b> — Auto-generate sitemap.xml &amp; robots.txt on build
+<br/>
+<code>Vite</code> <code>TypeScript</code>
+<br/>
+<a href="https://github.com/3ni8ma/vite-plugin"><img src="https://img.shields.io/badge/View_on_GitHub-0A0A0A?style=flat-square&logo=github&logoColor=6366F1" /></a>
+<img src="https://img.shields.io/github/stars/3ni8ma/vite-plugin?style=flat-square&label=Stars&labelColor=151515&color=6366F1" />
+
+<br/><br/>
+
+<b>tailwind-plugin</b> — Glassmorphism, text gradients, and glow utilities
+<br/>
+<code>Tailwind CSS</code> <code>TypeScript</code>
+<br/>
+<a href="https://github.com/3ni8ma/tailwind-plugin"><img src="https://img.shields.io/badge/View_on_GitHub-0A0A0A?style=flat-square&logo=github&logoColor=D946EF" /></a>
+<img src="https://img.shields.io/github/stars/3ni8ma/tailwind-plugin?style=flat-square&label=Stars&labelColor=151515&color=D946EF" />
+
+<br/><br/>
+
+<b>arkit</b> — CLI scaffolding tool for React + Vite projects
+<br/>
+<code>Node.js</code> <code>TypeScript</code>
+<br/>
+<a href="https://github.com/3ni8ma/cli-tool"><img src="https://img.shields.io/badge/View_on_GitHub-0A0A0A?style=flat-square&logo=github&logoColor=22D3EE" /></a>
+<img src="https://img.shields.io/github/stars/3ni8ma/cli-tool?style=flat-square&label=Stars&labelColor=151515&color=22D3EE" />
+
+<br/><br/>
+
+<b>aarushkarak-website</b> — Personal portfolio built with React 19 + Vite 8
+<br/>
+<code>React</code> <code>Vite</code> <code>Tailwind</code>
+<br/>
+<a href="https://github.com/3ni8ma/aarushkarak-website"><img src="https://img.shields.io/badge/View_on_GitHub-0A0A0A?style=flat-square&logo=github&logoColor=6366F1" /></a>
+<a href="https://aarushkarak.vercel.app"><img src="https://img.shields.io/badge/Live_Site-0A0A0A?style=flat-square&logo=vercel&logoColor=22D3EE" /></a>
 
 </details>
 
