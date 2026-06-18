@@ -50,6 +50,13 @@
 
 <br/>
 
+<!-- SKILL RADAR -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/main/radar.svg" alt="Skill Radar" width="800" />
+</p>
+
+<br/>
+
 <!-- SKILL ICONS -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,java,cpp,react,nodejs,threejs,postgres,arduino,tailwind,vite&perline=7&theme=dark" alt="Skills" />
