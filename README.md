@@ -35,11 +35,20 @@
 
 <br/>
 
-<!-- TROPHY CASE -->
+<!-- SNAKE -- will animate after first workflow run -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=3ni8ma&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophy Case" width="780" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3ni8ma/3ni8ma/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3ni8ma/3ni8ma/output/github-snake.svg" />
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/output/github-snake-dark.svg" width="780" />
+  </picture>
+</p>
+
+<br/>
+
+<!-- 3D CONTRIB -- will render after first workflow run -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="780" />
 </p>
 
 <br/>
@@ -97,23 +106,7 @@
 
 <br/>
 
-<!-- SNAKE -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3ni8ma/3ni8ma/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3ni8ma/3ni8ma/output/github-snake.svg" />
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/output/github-snake.svg" width="780" />
-  </picture>
-</p>
 
-<br/>
-
-<!-- 3D CONTRIB -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="780" />
-</p>
-
-<br/>
 
 <!-- CONNECT -->
 <p align="center">
