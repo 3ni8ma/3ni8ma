@@ -16,7 +16,7 @@
 
 <!-- STATS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Contributions-53-D946EF?style=for-the-badge&labelColor=151515" />
+  <img src="https://img.shields.io/badge/Contributions-56-D946EF?style=for-the-badge&labelColor=151515" />
   <img src="https://img.shields.io/badge/Stars-12-22D3EE?style=for-the-badge&labelColor=151515" />
   <img src="https://img.shields.io/badge/Streak-0 Days" />
 </p>
