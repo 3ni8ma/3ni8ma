@@ -29,79 +29,69 @@
   <!-- Bars -->
   <g filter="url(#shadow)">
   <!-- Commits bar -->
+  <rect x="55" y="90" width="130" height="240" rx="4" fill="#D946EF"/>
   <polygon points="65,80 195,80 185,90 55,90" fill="rgba(217,70,239,0.5)" stroke="none"/>
   <polygon points="185,90 195,80 195,320 185,330" fill="rgba(217,70,239,0.25)" stroke="none"/>
-  <rect x="55" y="90" width="130" height="240" rx="4" fill="#D946EF"/>
-  <!-- Glow -->
   <rect x="55" y="90" width="130" height="240" rx="4" fill="url(#glow)" opacity="0.3"/>
-  <!-- Value on top -->
-  <text x="120" y="76" text-anchor="middle" fill="#D946EF" font-family="system-ui,-apple-system,sans-serif" font-size="16" font-weight="800">57</text>
-  <!-- Label below -->
+  <text x="120" y="76" text-anchor="middle" fill="#D946EF" font-family="system-ui,-apple-system,sans-serif" font-size="16" font-weight="800">58</text>
   <text x="120" y="346" text-anchor="middle" fill="#666" font-family="system-ui,-apple-system,sans-serif" font-size="11">Commits</text>
   <!-- Pull Requests bar -->
-  <polygon points="225,299 355,299 345,309 215,309" fill="rgba(99,102,241,0.5)" stroke="none"/>
-  <polygon points="345,309 355,299 355,320 345,330" fill="rgba(99,102,241,0.25)" stroke="none"/>
-  <rect x="215" y="309" width="130" height="21" rx="4" fill="#6366F1"/>
-  <!-- Glow -->
-  <rect x="215" y="309" width="130" height="21" rx="4" fill="url(#glow)" opacity="0.3"/>
-  <!-- Value on top -->
-  <text x="280" y="295" text-anchor="middle" fill="#6366F1" font-family="system-ui,-apple-system,sans-serif" font-size="16" font-weight="800">5</text>
-  <!-- Label below -->
+  <rect x="215" y="310" width="130" height="20" rx="4" fill="#6366F1"/>
+  <polygon points="225,300 355,300 345,310 215,310" fill="rgba(99,102,241,0.5)" stroke="none"/>
+  <polygon points="345,310 355,300 355,320 345,330" fill="rgba(99,102,241,0.25)" stroke="none"/>
+  <rect x="215" y="310" width="130" height="20" rx="4" fill="url(#glow)" opacity="0.3"/>
+  <text x="280" y="296" text-anchor="middle" fill="#6366F1" font-family="system-ui,-apple-system,sans-serif" font-size="16" font-weight="800">5</text>
   <text x="280" y="346" text-anchor="middle" fill="#666" font-family="system-ui,-apple-system,sans-serif" font-size="11">Pull Requests</text>
   <!-- Issues bar -->
+  <rect x="375" y="328" width="130" height="2" rx="4" fill="#F59E0B"/>
   <polygon points="385,318 515,318 505,328 375,328" fill="rgba(245,158,11,0.5)" stroke="none"/>
   <polygon points="505,328 515,318 515,320 505,330" fill="rgba(245,158,11,0.25)" stroke="none"/>
-  <rect x="375" y="328" width="130" height="2" rx="4" fill="#F59E0B"/>
-  <!-- Value on top -->
   <text x="440" y="314" text-anchor="middle" fill="#F59E0B" font-family="system-ui,-apple-system,sans-serif" font-size="16" font-weight="800">0</text>
-  <!-- Label below -->
   <text x="440" y="346" text-anchor="middle" fill="#666" font-family="system-ui,-apple-system,sans-serif" font-size="11">Issues</text>
   <!-- Code Reviews bar -->
+  <rect x="535" y="328" width="130" height="2" rx="4" fill="#22D3EE"/>
   <polygon points="545,318 675,318 665,328 535,328" fill="rgba(34,211,238,0.5)" stroke="none"/>
   <polygon points="665,328 675,318 675,320 665,330" fill="rgba(34,211,238,0.25)" stroke="none"/>
-  <rect x="535" y="328" width="130" height="2" rx="4" fill="#22D3EE"/>
-  <!-- Value on top -->
   <text x="600" y="314" text-anchor="middle" fill="#22D3EE" font-family="system-ui,-apple-system,sans-serif" font-size="16" font-weight="800">0</text>
-  <!-- Label below -->
   <text x="600" y="346" text-anchor="middle" fill="#666" font-family="system-ui,-apple-system,sans-serif" font-size="11">Code Reviews</text>
 
   </g>
 </g>
 
 <!-- Stats panel -->
-<rect x="495" y="65" width="275" height="270" rx="12" fill="#111" stroke="#1a1a1a" stroke-width="1"/>
-<text x="515" y="93" fill="#fff" font-family="system-ui,-apple-system,sans-serif" font-size="16" font-weight="700">Overview</text>
-<line x1="515" y1="108" x2="750" y2="108" stroke="#1f1f1f" stroke-width="1"/>
+<rect x="485" y="62" width="290" height="310" rx="12" fill="#111" stroke="#1a1a1a" stroke-width="1"/>
+<text x="505" y="90" fill="#fff" font-family="system-ui,-apple-system,sans-serif" font-size="16" font-weight="700">Overview</text>
+<line x1="505" y1="105" x2="755" y2="105" stroke="#1f1f1f" stroke-width="1"/>
 
-  <text x="515" y="134" fill="#666" font-family="system-ui,-apple-system,sans-serif" font-size="11">Stars</text>
-  <text x="750" y="134" text-anchor="end" fill="#22D3EE" font-family="system-ui,-apple-system,sans-serif" font-size="15" font-weight="800">12</text>
-  <line x1="515" y1="148" x2="750" y2="148" stroke="#151515" stroke-width="1"/>
-  <text x="515" y="164" fill="#666" font-family="system-ui,-apple-system,sans-serif" font-size="11">Contributions</text>
-  <text x="750" y="164" text-anchor="end" fill="#D946EF" font-family="system-ui,-apple-system,sans-serif" font-size="15" font-weight="800">75</text>
-  <line x1="515" y1="178" x2="750" y2="178" stroke="#151515" stroke-width="1"/>
-  <text x="515" y="194" fill="#666" font-family="system-ui,-apple-system,sans-serif" font-size="11">Repos</text>
-  <text x="750" y="194" text-anchor="end" fill="#6366F1" font-family="system-ui,-apple-system,sans-serif" font-size="15" font-weight="800">14</text>
-  <line x1="515" y1="208" x2="750" y2="208" stroke="#151515" stroke-width="1"/>
-  <text x="515" y="224" fill="#666" font-family="system-ui,-apple-system,sans-serif" font-size="11">Streak</text>
-  <text x="750" y="224" text-anchor="end" fill="#22D3EE" font-family="system-ui,-apple-system,sans-serif" font-size="15" font-weight="800">2d</text>
-  <line x1="515" y1="238" x2="750" y2="238" stroke="#151515" stroke-width="1"/>
-  <text x="515" y="254" fill="#666" font-family="system-ui,-apple-system,sans-serif" font-size="11">Followers</text>
-  <text x="750" y="254" text-anchor="end" fill="#D946EF" font-family="system-ui,-apple-system,sans-serif" font-size="15" font-weight="800">1</text>
-  <line x1="515" y1="268" x2="750" y2="268" stroke="#151515" stroke-width="1"/>
+  <text x="505" y="129" fill="#666" font-family="system-ui,-apple-system,sans-serif" font-size="11">Stars</text>
+  <text x="755" y="129" text-anchor="end" fill="#22D3EE" font-family="system-ui,-apple-system,sans-serif" font-size="14" font-weight="800">12</text>
+  <line x1="505" y1="143" x2="755" y2="143" stroke="#151515" stroke-width="1"/>
+  <text x="505" y="155" fill="#666" font-family="system-ui,-apple-system,sans-serif" font-size="11">Contributions</text>
+  <text x="755" y="155" text-anchor="end" fill="#D946EF" font-family="system-ui,-apple-system,sans-serif" font-size="14" font-weight="800">76</text>
+  <line x1="505" y1="169" x2="755" y2="169" stroke="#151515" stroke-width="1"/>
+  <text x="505" y="181" fill="#666" font-family="system-ui,-apple-system,sans-serif" font-size="11">Repos</text>
+  <text x="755" y="181" text-anchor="end" fill="#6366F1" font-family="system-ui,-apple-system,sans-serif" font-size="14" font-weight="800">14</text>
+  <line x1="505" y1="195" x2="755" y2="195" stroke="#151515" stroke-width="1"/>
+  <text x="505" y="207" fill="#666" font-family="system-ui,-apple-system,sans-serif" font-size="11">Streak</text>
+  <text x="755" y="207" text-anchor="end" fill="#22D3EE" font-family="system-ui,-apple-system,sans-serif" font-size="14" font-weight="800">2d</text>
+  <line x1="505" y1="221" x2="755" y2="221" stroke="#151515" stroke-width="1"/>
+  <text x="505" y="233" fill="#666" font-family="system-ui,-apple-system,sans-serif" font-size="11">Followers</text>
+  <text x="755" y="233" text-anchor="end" fill="#D946EF" font-family="system-ui,-apple-system,sans-serif" font-size="14" font-weight="800">1</text>
+  <line x1="505" y1="247" x2="755" y2="247" stroke="#151515" stroke-width="1"/>
 
-<text x="515" y="290" fill="#888" font-family="system-ui,-apple-system,sans-serif" font-size="10" font-weight="600">CONTRIBUTION TYPES</text>
-  <rect x="515" y="308" width="8" height="8" rx="2" fill="#D946EF"/>
-  <text x="530" y="315" fill="#555" font-family="system-ui,-apple-system,sans-serif" font-size="10">Commits</text>
-  <text x="750" y="315" text-anchor="end" fill="#D946EF" font-family="system-ui,-apple-system,sans-serif" font-size="11" font-weight="600">57</text>
-  <rect x="515" y="326" width="8" height="8" rx="2" fill="#6366F1"/>
-  <text x="530" y="333" fill="#555" font-family="system-ui,-apple-system,sans-serif" font-size="10">Pull Requests</text>
-  <text x="750" y="333" text-anchor="end" fill="#6366F1" font-family="system-ui,-apple-system,sans-serif" font-size="11" font-weight="600">5</text>
-  <rect x="515" y="344" width="8" height="8" rx="2" fill="#F59E0B"/>
-  <text x="530" y="351" fill="#555" font-family="system-ui,-apple-system,sans-serif" font-size="10">Issues</text>
-  <text x="750" y="351" text-anchor="end" fill="#F59E0B" font-family="system-ui,-apple-system,sans-serif" font-size="11" font-weight="600">0</text>
-  <rect x="515" y="362" width="8" height="8" rx="2" fill="#22D3EE"/>
-  <text x="530" y="369" fill="#555" font-family="system-ui,-apple-system,sans-serif" font-size="10">Code Reviews</text>
-  <text x="750" y="369" text-anchor="end" fill="#22D3EE" font-family="system-ui,-apple-system,sans-serif" font-size="11" font-weight="600">0</text>
+<text x="505" y="259" fill="#888" font-family="system-ui,-apple-system,sans-serif" font-size="9" font-weight="600" letter-spacing="1">CONTRIBUTION TYPES</text>
+  <rect x="505" y="273" width="7" height="7" rx="2" fill="#D946EF"/>
+  <text x="518" y="279" fill="#555" font-family="system-ui,-apple-system,sans-serif" font-size="9">Commits</text>
+  <text x="755" y="279" text-anchor="end" fill="#D946EF" font-family="system-ui,-apple-system,sans-serif" font-size="10" font-weight="600">58</text>
+  <rect x="505" y="289" width="7" height="7" rx="2" fill="#6366F1"/>
+  <text x="518" y="295" fill="#555" font-family="system-ui,-apple-system,sans-serif" font-size="9">Pull Requests</text>
+  <text x="755" y="295" text-anchor="end" fill="#6366F1" font-family="system-ui,-apple-system,sans-serif" font-size="10" font-weight="600">5</text>
+  <rect x="505" y="305" width="7" height="7" rx="2" fill="#F59E0B"/>
+  <text x="518" y="311" fill="#555" font-family="system-ui,-apple-system,sans-serif" font-size="9">Issues</text>
+  <text x="755" y="311" text-anchor="end" fill="#F59E0B" font-family="system-ui,-apple-system,sans-serif" font-size="10" font-weight="600">0</text>
+  <rect x="505" y="321" width="7" height="7" rx="2" fill="#22D3EE"/>
+  <text x="518" y="327" fill="#555" font-family="system-ui,-apple-system,sans-serif" font-size="9">Code Reviews</text>
+  <text x="755" y="327" text-anchor="end" fill="#22D3EE" font-family="system-ui,-apple-system,sans-serif" font-size="10" font-weight="600">0</text>
 
-<text x="635" y="350" text-anchor="middle" fill="#333" font-family="system-ui,-apple-system,sans-serif" font-size="9">Updated 2026-06-19 17:00 UTC</text>
+<text x="630" y="358" text-anchor="middle" fill="#333" font-family="system-ui,-apple-system,sans-serif" font-size="8">Updated 2026-06-19 17:01 UTC</text>
 </svg>
