@@ -3,56 +3,72 @@
   <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
     <stop offset="0%" stop-color="#0c0c0c"/><stop offset="100%" stop-color="#050505"/>
   </linearGradient>
+  <linearGradient id="glow" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" stop-color="#fff" stop-opacity="0.4"/>
+    <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+  </linearGradient>
   <filter id="shadow">
     <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000" flood-opacity="0.4"/>
   </filter>
 </defs>
 <rect width="800" height="400" fill="url(#bg)" rx="16"/>
 
+<!-- Header -->
 <rect x="0" y="0" width="800" height="42" fill="#111" rx="16"/>
 <rect x="0" y="26" width="800" height="16" fill="#111"/>
 <text x="400" y="27" text-anchor="middle" fill="#6366F1" font-family="system-ui,-apple-system,sans-serif" font-size="12" font-weight="700" letter-spacing="3">CONTRIBUTION BREAKDOWN</text>
 
+<!-- Chart area -->
 <g transform="translate(0,10)">
+  <!-- Floor -->
   <rect x="45" y="330" width="630" height="2" rx="1" fill="#222"/>
+  <!-- Grid lines -->
   <line x1="55" y1="290" x2="665" y2="290" stroke="#1a1a1a" stroke-width="1" stroke-dasharray="3,3"/>
 
-  <g filter="url(#shadow)">
-  <rect x="55" y="291" width="130" height="39" rx="4" fill="#D946EF"/>
-  <polygon points="65,281 195,281 185,291 55,291" fill="rgba(217,70,239,0.5)" stroke="none"/>
-  <polygon points="185,291 195,281 195,283 185,293" fill="rgba(217,70,239,0.25)" stroke="none"/>
-  <text x="120" y="277" text-anchor="middle" fill="#D946EF" font-family="system-ui,-apple-system,sans-serif" font-size="16" font-weight="800">1458</text>
-  <text x="120" y="346" text-anchor="middle" fill="#666" font-family="system-ui,-apple-system,sans-serif" font-size="11">Commits</text>
 
+  <!-- Bars -->
+  <g filter="url(#shadow)">
+  <!-- Commits bar -->
+  <rect x="55" y="90" width="130" height="240" rx="4" fill="#D946EF"/>
+  <polygon points="65,80 195,80 185,90 55,90" fill="rgba(217,70,239,0.5)" stroke="none"/>
+  <polygon points="185,90 195,80 195,320 185,330" fill="rgba(217,70,239,0.25)" stroke="none"/>
+  <rect x="55" y="90" width="130" height="240" rx="4" fill="url(#glow)" opacity="0.3"/>
+  <text x="120" y="76" text-anchor="middle" fill="#D946EF" font-family="system-ui,-apple-system,sans-serif" font-size="16" font-weight="800">1465</text>
+  <text x="120" y="346" text-anchor="middle" fill="#666" font-family="system-ui,-apple-system,sans-serif" font-size="11">Commits</text>
+  <!-- Pull Requests bar -->
   <rect x="215" y="328" width="130" height="2" rx="4" fill="#6366F1"/>
   <polygon points="225,318 355,318 345,328 215,328" fill="rgba(99,102,241,0.5)" stroke="none"/>
   <polygon points="345,328 355,318 355,320 345,330" fill="rgba(99,102,241,0.25)" stroke="none"/>
+  <rect x="215" y="328" width="130" height="2" rx="4" fill="url(#glow)" opacity="0.3"/>
   <text x="280" y="314" text-anchor="middle" fill="#6366F1" font-family="system-ui,-apple-system,sans-serif" font-size="16" font-weight="800">15</text>
   <text x="280" y="346" text-anchor="middle" fill="#666" font-family="system-ui,-apple-system,sans-serif" font-size="11">Pull Requests</text>
-
-  <rect x="375" y="324" width="130" height="6" rx="4" fill="#F59E0B"/>
-  <polygon points="385,314 515,314 505,324 375,324" fill="rgba(245,158,11,0.5)" stroke="none"/>
-  <polygon points="505,324 515,314 515,330 505,330" fill="rgba(245,158,11,0.25)" stroke="none"/>
-  <text x="440" y="310" text-anchor="middle" fill="#F59E0B" font-family="system-ui,-apple-system,sans-serif" font-size="16" font-weight="800">141</text>
+  <!-- Issues bar -->
+  <rect x="375" y="307" width="130" height="23" rx="4" fill="#F59E0B"/>
+  <polygon points="385,297 515,297 505,307 375,307" fill="rgba(245,158,11,0.5)" stroke="none"/>
+  <polygon points="505,307 515,297 515,320 505,330" fill="rgba(245,158,11,0.25)" stroke="none"/>
+  <rect x="375" y="307" width="130" height="23" rx="4" fill="url(#glow)" opacity="0.3"/>
+  <text x="440" y="293" text-anchor="middle" fill="#F59E0B" font-family="system-ui,-apple-system,sans-serif" font-size="16" font-weight="800">141</text>
   <text x="440" y="346" text-anchor="middle" fill="#666" font-family="system-ui,-apple-system,sans-serif" font-size="11">Issues</text>
-
+  <!-- Code Reviews bar -->
   <rect x="535" y="328" width="130" height="2" rx="4" fill="#22D3EE"/>
   <polygon points="545,318 675,318 665,328 535,328" fill="rgba(34,211,238,0.5)" stroke="none"/>
-  <polygon points="665,328 675,318 675,330 665,330" fill="rgba(34,211,238,0.25)" stroke="none"/>
+  <polygon points="665,328 675,318 675,320 665,330" fill="rgba(34,211,238,0.25)" stroke="none"/>
   <text x="600" y="314" text-anchor="middle" fill="#22D3EE" font-family="system-ui,-apple-system,sans-serif" font-size="16" font-weight="800">0</text>
   <text x="600" y="346" text-anchor="middle" fill="#666" font-family="system-ui,-apple-system,sans-serif" font-size="11">Code Reviews</text>
+
   </g>
 </g>
 
+<!-- Stats panel -->
 <rect x="485" y="62" width="290" height="310" rx="12" fill="#111" stroke="#1a1a1a" stroke-width="1"/>
 <text x="505" y="90" fill="#fff" font-family="system-ui,-apple-system,sans-serif" font-size="16" font-weight="700">Overview</text>
 <line x1="505" y1="105" x2="755" y2="105" stroke="#1f1f1f" stroke-width="1"/>
 
   <text x="505" y="129" fill="#666" font-family="system-ui,-apple-system,sans-serif" font-size="11">Stars</text>
-  <text x="755" y="129" text-anchor="end" fill="#22D3EE" font-family="system-ui,-apple-system,sans-serif" font-size="14" font-weight="800">19</text>
+  <text x="755" y="129" text-anchor="end" fill="#22D3EE" font-family="system-ui,-apple-system,sans-serif" font-size="14" font-weight="800">17</text>
   <line x1="505" y1="143" x2="755" y2="143" stroke="#151515" stroke-width="1"/>
   <text x="505" y="155" fill="#666" font-family="system-ui,-apple-system,sans-serif" font-size="11">Contributions</text>
-  <text x="755" y="155" text-anchor="end" fill="#D946EF" font-family="system-ui,-apple-system,sans-serif" font-size="14" font-weight="800">1630</text>
+  <text x="755" y="155" text-anchor="end" fill="#D946EF" font-family="system-ui,-apple-system,sans-serif" font-size="14" font-weight="800">1637</text>
   <line x1="505" y1="169" x2="755" y2="169" stroke="#151515" stroke-width="1"/>
   <text x="505" y="181" fill="#666" font-family="system-ui,-apple-system,sans-serif" font-size="11">Repos</text>
   <text x="755" y="181" text-anchor="end" fill="#6366F1" font-family="system-ui,-apple-system,sans-serif" font-size="14" font-weight="800">17</text>
@@ -67,7 +83,7 @@
 <text x="505" y="259" fill="#888" font-family="system-ui,-apple-system,sans-serif" font-size="9" font-weight="600" letter-spacing="1">CONTRIBUTION TYPES</text>
   <rect x="505" y="273" width="7" height="7" rx="2" fill="#D946EF"/>
   <text x="518" y="279" fill="#555" font-family="system-ui,-apple-system,sans-serif" font-size="9">Commits</text>
-  <text x="755" y="279" text-anchor="end" fill="#D946EF" font-family="system-ui,-apple-system,sans-serif" font-size="10" font-weight="600">1458</text>
+  <text x="755" y="279" text-anchor="end" fill="#D946EF" font-family="system-ui,-apple-system,sans-serif" font-size="10" font-weight="600">1465</text>
   <rect x="505" y="289" width="7" height="7" rx="2" fill="#6366F1"/>
   <text x="518" y="295" fill="#555" font-family="system-ui,-apple-system,sans-serif" font-size="9">Pull Requests</text>
   <text x="755" y="295" text-anchor="end" fill="#6366F1" font-family="system-ui,-apple-system,sans-serif" font-size="10" font-weight="600">15</text>
@@ -78,5 +94,5 @@
   <text x="518" y="327" fill="#555" font-family="system-ui,-apple-system,sans-serif" font-size="9">Code Reviews</text>
   <text x="755" y="327" text-anchor="end" fill="#22D3EE" font-family="system-ui,-apple-system,sans-serif" font-size="10" font-weight="600">0</text>
 
-<text x="630" y="358" text-anchor="middle" fill="#333" font-family="system-ui,-apple-system,sans-serif" font-size="8">Updated 2026-07-09 05:00 UTC</text>
+<text x="630" y="358" text-anchor="middle" fill="#333" font-family="system-ui,-apple-system,sans-serif" font-size="8">Updated 2026-07-09 05:45 UTC</text>
 </svg>
