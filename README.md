@@ -43,10 +43,7 @@
 
 <!-- HACKATIME STATS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Hackatime-6366F1?style=for-the-badge&logo=clockify&logoColor=white&labelColor=151515" />
-  <a href="https://waka.hackclub.com">
-    <img src="https://img.shields.io/badge/History-0A0A0A?style=for-the-badge&logo=clockify&logoColor=6366F1" />
-  </a>
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=37409&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Hackatime Stats" />
 </p>
 
 <br/>
