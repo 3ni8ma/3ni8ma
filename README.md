@@ -16,14 +16,9 @@
 
 <!-- STATS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Contributions-1630-D946EF?style=for-the-badge&labelColor=151515" />
-  <img src="https://img.shields.io/badge/Stars-19-22D3EE?style=for-the-badge&labelColor=151515" />
+  <img src="https://img.shields.io/badge/Contributions-1619-D946EF?style=for-the-badge&labelColor=151515" />
+  <img src="https://img.shields.io/badge/Stars-17-22D3EE?style=for-the-badge&labelColor=151515" />
   <img src="https://img.shields.io/badge/Streak-22%20Days-6366F1?style=for-the-badge&labelColor=151515" />
-  <img src="https://img.shields.io/badge/Followers-8-D946EF?style=for-the-badge&labelColor=151515" />
-  <img src="https://img.shields.io/badge/Repos-17-22D3EE?style=for-the-badge&labelColor=151515" />
-  <img src="https://img.shields.io/badge/Commits-1458-6366F1?style=for-the-badge&labelColor=151515" />
-  <img src="https://img.shields.io/badge/PRs-15-D946EF?style=for-the-badge&labelColor=151515" />
-  <img src="https://img.shields.io/badge/Issues-141-22D3EE?style=for-the-badge&labelColor=151515" />
 </p>
 
 <br/>
