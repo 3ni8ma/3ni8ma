@@ -23,16 +23,6 @@
 
 <br/>
 
-<!-- ACHIEVEMENTS -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Pull%20Shark-13%20PRs-D946EF?style=for-the-badge&labelColor=151515" />
-  <img src="https://img.shields.io/badge/YOLO-Merge%20Approved-22D3EE?style=for-the-badge&labelColor=151515" />
-  <img src="https://img.shields.io/badge/Quickdraw-Sub%205%20min-6366F1?style=for-the-badge&labelColor=151515" />
-  <img src="https://img.shields.io/badge/Starstruck-19%20Stars-F59E0B?style=for-the-badge&labelColor=151515" />
-</p>
-
-<br/>
-
 <!-- HACKATIME STATS -->
 <p align="center">
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=37409&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Hackatime Stats" />
