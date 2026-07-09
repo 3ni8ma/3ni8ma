@@ -9,7 +9,7 @@
 
 <!-- ABOUT SVG -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/14914ad/about.svg" alt="About Aarush Karak" width="800" />
+  <img src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/50d84b2/about.svg" alt="About Aarush Karak" width="800" />
 </p>
 
 <br/>
