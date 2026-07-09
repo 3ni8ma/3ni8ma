@@ -23,19 +23,30 @@
 
 <br/>
 
-<!-- KAGGLE & HACKATIME STATS -->
+<!-- KAGGLE STATS -->
 <p align="center">
-  <a href="https://www.kaggle.com/aarushkarak">
-    <img src="https://img.shields.io/badge/Kaggle-aarushkarak-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=151515" alt="Kaggle" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://waka.hackclub.com">
-    <img src="https://img.shields.io/badge/Hackatime-U091J5X7UEP-6366F1?style=for-the-badge&logo=clockify&logoColor=white&labelColor=151515" alt="Hackatime" />
-  </a>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=151515" />
+  <img src="https://img.shields.io/badge/Competitions-11-D946EF?style=for-the-badge&labelColor=151515" />
+  <img src="https://img.shields.io/badge/Notebooks-20-22D3EE?style=for-the-badge&labelColor=151515" />
+  <img src="https://img.shields.io/badge/Datasets-1-6366F1?style=for-the-badge&labelColor=151515" />
+  <img src="https://img.shields.io/badge/Streak-7%20Days-20BEFF?style=for-the-badge&labelColor=151515" />
+  <img src="https://img.shields.io/badge/Courses-3-22D3EE?style=for-the-badge&labelColor=151515" />
 </p>
 
 <p align="center">
-  <img src="https://heatmap.shymike.dev?id=U091J5X7UEP&theme=dark&cell_size=8" alt="Hackatime Coding Activity" width="600" />
+  <a href="https://www.kaggle.com/aarushkarak">
+    <img src="https://img.shields.io/badge/View_Profile-0A0A0A?style=for-the-badge&logo=kaggle&logoColor=20BEFF" />
+  </a>
+</p>
+
+<br/>
+
+<!-- HACKATIME STATS -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Hackatime-6366F1?style=for-the-badge&logo=clockify&logoColor=white&labelColor=151515" />
+  <a href="https://waka.hackclub.com">
+    <img src="https://img.shields.io/badge/History-0A0A0A?style=for-the-badge&logo=clockify&logoColor=6366F1" />
+  </a>
 </p>
 
 <br/>
