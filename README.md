@@ -23,24 +23,6 @@
 
 <br/>
 
-<!-- KAGGLE STATS -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=151515" />
-  <img src="https://img.shields.io/badge/Competitions-11-D946EF?style=for-the-badge&labelColor=151515" />
-  <img src="https://img.shields.io/badge/Notebooks-20-22D3EE?style=for-the-badge&labelColor=151515" />
-  <img src="https://img.shields.io/badge/Datasets-1-6366F1?style=for-the-badge&labelColor=151515" />
-  <img src="https://img.shields.io/badge/Streak-7%20Days-20BEFF?style=for-the-badge&labelColor=151515" />
-  <img src="https://img.shields.io/badge/Courses-3-22D3EE?style=for-the-badge&labelColor=151515" />
-</p>
-
-<p align="center">
-  <a href="https://www.kaggle.com/aarushkarak">
-    <img src="https://img.shields.io/badge/View_Profile-0A0A0A?style=for-the-badge&logo=kaggle&logoColor=20BEFF" />
-  </a>
-</p>
-
-<br/>
-
 <!-- HACKATIME STATS -->
 <p align="center">
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=37409&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Hackatime Stats" />
