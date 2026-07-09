@@ -26,10 +26,16 @@
 <!-- KAGGLE & HACKATIME STATS -->
 <p align="center">
   <a href="https://www.kaggle.com/aarushkarak">
-    <img src="https://kaggle-badge.vercel.app/api/badge/aarushkarak" alt="Kaggle Badge" />
+    <img src="https://img.shields.io/badge/Kaggle-aarushkarak-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=151515" alt="Kaggle" />
   </a>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=U091J5X7UEP&api_domain=waka.hackclub.com&bg_color=151515&title_color=D946EF&icon_color=6366F1&text_color=ffffff&custom_title=Coding%20Activity%20(7%20Days)&layout=compact&range=last_7_days&hide=editors,os,projects" alt="Hackatime Stats" width="450" />
+  <a href="https://waka.hackclub.com">
+    <img src="https://img.shields.io/badge/Hackatime-U091J5X7UEP-6366F1?style=for-the-badge&logo=clockify&logoColor=white&labelColor=151515" alt="Hackatime" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://heatmap.shymike.dev?id=U091J5X7UEP&theme=dark&cell_size=8" alt="Hackatime Coding Activity" width="600" />
 </p>
 
 <br/>
