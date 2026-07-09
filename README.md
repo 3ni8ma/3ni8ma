@@ -23,6 +23,17 @@
 
 <br/>
 
+<!-- KAGGLE & HACKATIME STATS -->
+<p align="center">
+  <a href="https://www.kaggle.com/aarushkarak">
+    <img src="https://kaggle-badge.vercel.app/api/badge/aarushkarak" alt="Kaggle Badge" />
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=U091J5X7UEP&api_domain=waka.hackclub.com&bg_color=151515&title_color=D946EF&icon_color=6366F1&text_color=ffffff&custom_title=Coding%20Activity%20(7%20Days)&layout=compact&range=last_7_days&hide=editors,os,projects" alt="Hackatime Stats" width="450" />
+</p>
+
+<br/>
+
 <!-- SNAKE -->
 <p align="center">
   <picture>
