@@ -19,7 +19,7 @@
   <text x="80" y="191" text-anchor="middle" fill="#D946EF" font-family="system-ui, sans-serif" font-size="14" font-weight="700">18</text>
   <text x="80" y="206" text-anchor="middle" fill="#666" font-family="system-ui, sans-serif" font-size="9">STARS</text>
   <rect y="168" x="175" width="160" height="36" rx="8" fill="#151515"/>
-  <text x="255" y="191" text-anchor="middle" fill="#6366F1" font-family="system-ui, sans-serif" font-size="14" font-weight="700">2999</text>
+  <text x="255" y="191" text-anchor="middle" fill="#6366F1" font-family="system-ui, sans-serif" font-size="14" font-weight="700">3007</text>
   <text x="255" y="206" text-anchor="middle" fill="#666" font-family="system-ui, sans-serif" font-size="9">CONTRIBUTIONS</text>
   <rect y="168" x="350" width="160" height="36" rx="8" fill="#151515"/>
   <text x="430" y="191" text-anchor="middle" fill="#22D3EE" font-family="system-ui, sans-serif" font-size="14" font-weight="700">8</text>
