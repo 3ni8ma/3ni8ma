@@ -16,9 +16,9 @@
 
 <!-- STATS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Contributions-3110-D946EF?style=for-the-badge&labelColor=151515" />
+  <img src="https://img.shields.io/badge/Contributions-3113-D946EF?style=for-the-badge&labelColor=151515" />
   <img src="https://img.shields.io/badge/Stars-18-22D3EE?style=for-the-badge&labelColor=151515" />
-  <img src="https://img.shields.io/badge/Streak-25%20Days-6366F1?style=for-the-badge&labelColor=151515" />
+  <img src="https://img.shields.io/badge/Streak-26%20Days-6366F1?style=for-the-badge&labelColor=151515" />
 </p>
 
 <br/>
