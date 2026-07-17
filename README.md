@@ -48,12 +48,7 @@
 
 <br/>
 
-<!-- SKILL RADAR -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/cb91f41/radar.svg" alt="Skill Radar" width="800" />
-</p>
 
-<br/>
 
 <!-- SKILL ICONS -->
 <p align="center">
