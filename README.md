@@ -18,6 +18,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Contributions-5774-D946EF?style=for-the-badge&labelColor=151515" />
   <img src="https://img.shields.io/badge/Stars-19-22D3EE?style=for-the-badge&labelColor=151515" />
+  <img src="https://img.shields.io/badge/Followers-9-10B981?style=for-the-badge&labelColor=151515" />
   <img src="https://img.shields.io/badge/Streak-36%20Days-6366F1?style=for-the-badge&labelColor=151515" />
 </p>
 
@@ -65,6 +66,22 @@
 <br/>
 
 <!-- PROJECTS -->
+<!-- TROPHIES -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=3ni8ma&theme=radical&no-frame=true&column=4&row=2&margin-w=10&margin-h=10" alt="GitHub Trophies" width="780" />
+</p>
+
+<br/>
+
+<!-- KAGGLE BADGE -->
+<p align="center">
+  <a href="https://kaggle.com/aarushkarak">
+    <img src="https://img.shields.io/badge/Kaggle-aarushkarak-20BEFF?style=flat-square&logo=kaggle&logoColor=white&labelColor=151515" alt="Kaggle" />
+  </a>
+</p>
+
+<br/>
+
 <details>
 <summary><b>🚀 Featured Projects</b></summary>
 <br/>
@@ -161,6 +178,7 @@
 <p align="center">
   <a href="https://github.com/3ni8ma"><img src="https://img.shields.io/badge/GitHub-3ni8ma-0A0A0A?style=for-the-badge&logo=github&logoColor=D946EF&labelColor=151515" /></a>
   <a href="https://www.linkedin.com/in/aarush-karak-260257321"><img src="https://img.shields.io/badge/LinkedIn-Aarush_Karak-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=6366F1&labelColor=151515" /></a>
+  <a href="https://kaggle.com/aarushkarak"><img src="https://img.shields.io/badge/Kaggle-aarushkarak-0A0A0A?style=for-the-badge&logo=kaggle&logoColor=20BEFF&labelColor=151515" /></a>
   <a href="mailto:worldshaans@gmail.com"><img src="https://img.shields.io/badge/Email-worldshaans-0A0A0A?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=151515" /></a>
   <a href="https://aarushkarak.vercel.app"><img src="https://img.shields.io/badge/Portfolio-aarushkarak.vercel.app-0A0A0A?style=for-the-badge&logo=vercel&logoColor=D946EF&labelColor=151515" /></a>
 </p>
