@@ -16,8 +16,8 @@
 
 <!-- STATS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Contributions-6707-D946EF?style=for-the-badge&labelColor=151515" />
-  <img src="https://img.shields.io/badge/Stars-21-22D3EE?style=for-the-badge&labelColor=151515" />
+  <img src="https://img.shields.io/badge/Contributions-6709-D946EF?style=for-the-badge&labelColor=151515" />
+  <img src="https://img.shields.io/badge/Stars-0-22D3EE?style=for-the-badge&labelColor=151515" />
   <img src="https://img.shields.io/badge/Followers-9-10B981?style=for-the-badge&labelColor=151515" />
   <img src="https://img.shields.io/badge/Streak-41%20Days-6366F1?style=for-the-badge&labelColor=151515" />
 </p>
