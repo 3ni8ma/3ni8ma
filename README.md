@@ -66,22 +66,6 @@
 <br/>
 
 <!-- PROJECTS -->
-<!-- TROPHIES -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=3ni8ma&theme=radical&no-frame=true&column=4&row=2&margin-w=10&margin-h=10" alt="GitHub Trophies" width="780" />
-</p>
-
-<br/>
-
-<!-- KAGGLE BADGE -->
-<p align="center">
-  <a href="https://kaggle.com/aarushkarak">
-    <img src="https://img.shields.io/badge/Kaggle-aarushkarak-20BEFF?style=flat-square&logo=kaggle&logoColor=white&labelColor=151515" alt="Kaggle" />
-  </a>
-</p>
-
-<br/>
-
 <details>
 <summary><b>🚀 Featured Projects</b></summary>
 <br/>
