@@ -50,14 +50,14 @@
 <br/>
 
 <!-- ================= FOOTER ================= -->
-<div align="center">
-  <div style="background-color:#0d1117; border:1px solid #26313d; border-radius:18px; padding:26px 42px; display:inline-block;">
-    <div style="color:#ffffff; font-family:-apple-system, 'Segoe UI', sans-serif; font-size:16px; font-weight:700;">Let's build something extraordinary together</div>
-    <div style="margin-top:14px;">
-      <a href="https://aarushkarak.vercel.app" style="display:inline-block; background-color:#101c24; border:1px solid #00f2fe66; border-radius:22px; padding:11px 30px; color:#ffffff; font-family:-apple-system, 'Segoe UI', sans-serif; font-size:13px; font-weight:700; letter-spacing:0.5px; text-decoration:none;">VISIT PORTFOLIO</a>
-    </div>
-    <div style="margin-top:16px; font-family:-apple-system, 'Segoe UI', sans-serif; font-size:11px; font-weight:600; letter-spacing:2px; color:#8b98a5;">
-      <a href="https://github.com/3ni8ma" style="color:#00f2fe; text-decoration:none;">GITHUB</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/aarushkarak" style="color:#00f2fe; text-decoration:none;">LINKEDIN</a> &nbsp;·&nbsp; <a href="https://x.com/aarushkarak" style="color:#00f2fe; text-decoration:none;">X</a> &nbsp;·&nbsp; <a href="https://thecoderbros.com" style="color:#00f2fe; text-decoration:none;">THE CODER BROS</a>
-    </div>
-  </div>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/main/footer.svg" alt="Let's build something extraordinary together" width="800" />
+</p>
+
+<p align="center">
+  <a href="https://aarushkarak.vercel.app"><img src="https://img.shields.io/badge/VISIT_PORTFOLIO-aarushkarak.vercel.app-00f2fe?style=for-the-badge&labelColor=0d1117" alt="Portfolio" /></a>
+  <a href="https://github.com/3ni8ma"><img src="https://img.shields.io/badge/GitHub-3ni8ma-00f2fe?style=for-the-badge&labelColor=0d1117" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/aarushkarak"><img src="https://img.shields.io/badge/LinkedIn-aarushkarak-4a90d9?style=for-the-badge&labelColor=0d1117" alt="LinkedIn" /></a>
+  <a href="https://x.com/aarushkarak"><img src="https://img.shields.io/badge/X-aarushkarak-d67964?style=for-the-badge&labelColor=0d1117" alt="X" /></a>
+  <a href="https://thecoderbros.com"><img src="https://img.shields.io/badge/The_Coder_Bros-thecoderbros.com-e60049?style=for-the-badge&labelColor=0d1117" alt="The Coder Bros" /></a>
+</p>
