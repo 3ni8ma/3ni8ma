@@ -42,16 +42,16 @@
 <text x="40" y="162" fill="#8b98a5" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="12">Greater Toronto Area · Platform Engineer @ Hack Club (Stardance)</text>
   <rect x="40" y="186" width="150" height="42" rx="13" fill="#ffffff" opacity="0.045" stroke="#ffffff" stroke-opacity="0.14"/>
   <text x="115" y="209" text-anchor="middle" fill="#00f2fe" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" font-weight="700">TypeScript</text>
-  <text x="115" y="226" text-anchor="middle" fill="#8b98a5" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="9" letter-spacing="1.5">TYPESCRIPT</text>
+  <text x="115" y="226" text-anchor="middle" fill="#8b98a5" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="9" letter-spacing="1.5">TS</text>
   <rect x="204" y="186" width="140" height="42" rx="13" fill="#ffffff" opacity="0.045" stroke="#ffffff" stroke-opacity="0.14"/>
   <text x="274" y="209" text-anchor="middle" fill="#4a90d9" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" font-weight="700">Three.js</text>
-  <text x="274" y="226" text-anchor="middle" fill="#8b98a5" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="9" letter-spacing="1.5">THREE.JS</text>
+  <text x="274" y="226" text-anchor="middle" fill="#8b98a5" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="9" letter-spacing="1.5">3D</text>
   <rect x="358" y="186" width="130" height="42" rx="13" fill="#ffffff" opacity="0.045" stroke="#ffffff" stroke-opacity="0.14"/>
   <text x="423" y="209" text-anchor="middle" fill="#e60049" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" font-weight="700">React</text>
   <text x="423" y="226" text-anchor="middle" fill="#8b98a5" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="9" letter-spacing="1.5">REACT</text>
   <rect x="502" y="186" width="150" height="42" rx="13" fill="#ffffff" opacity="0.045" stroke="#ffffff" stroke-opacity="0.14"/>
   <text x="577" y="209" text-anchor="middle" fill="#d67964" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" font-weight="700">Spatial AI</text>
-  <text x="577" y="226" text-anchor="middle" fill="#8b98a5" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="9" letter-spacing="1.5">SPATIAL AI</text>
+  <text x="577" y="226" text-anchor="middle" fill="#8b98a5" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="9" letter-spacing="1.5">AI</text>
   <rect x="666" y="186" width="94" height="42" rx="13" fill="#ffffff" opacity="0.045" stroke="#ffffff" stroke-opacity="0.14"/>
   <text x="713" y="209" text-anchor="middle" fill="#5bfcc4" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" font-weight="700">OSS</text>
   <text x="713" y="226" text-anchor="middle" fill="#8b98a5" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="9" letter-spacing="1.5">OSS</text>
