@@ -40,23 +40,23 @@
 <rect x="38" y="300" width="404" height="2" rx="1" fill="#2a3542"/>
   <line x1="48" y1="260" x2="432" y2="260" stroke="#1f2833" stroke-width="1" stroke-dasharray="3,3"/>
 
-  <rect x="48" y="100" width="84" height="200" rx="4" fill="#00f2fe"/>
-  <polygon points="56,92 140,92 132,100 48,100" fill="rgba(0,242,254,0.5)" stroke="none"/>
-  <polygon points="132,100 140,92 140,292 132,300" fill="rgba(0,242,254,0.25)" stroke="none"/>
-  <rect x="48" y="100" width="84" height="200" rx="4" fill="url(#glow)" opacity="0.3"/>
-  <text x="90" y="86" text-anchor="middle" fill="#00f2fe" font-family="system-ui,-apple-system,sans-serif" font-size="15" font-weight="800">7294</text>
+  <rect x="48" y="101" width="84" height="199" rx="4" fill="#00f2fe"/>
+  <polygon points="56,93 140,93 132,101 48,101" fill="rgba(0,242,254,0.5)" stroke="none"/>
+  <polygon points="132,101 140,93 140,292 132,300" fill="rgba(0,242,254,0.25)" stroke="none"/>
+  <rect x="48" y="101" width="84" height="199" rx="4" fill="url(#glow)" opacity="0.3"/>
+  <text x="90" y="87" text-anchor="middle" fill="#00f2fe" font-family="system-ui,-apple-system,sans-serif" font-size="15" font-weight="800">7294</text>
   <text x="90" y="318" text-anchor="middle" fill="#8b98a5" font-family="system-ui,-apple-system,sans-serif" font-size="11">Commits</text>
-  <rect x="148" y="290" width="84" height="10" rx="4" fill="#4a90d9"/>
-  <polygon points="156,282 240,282 232,290 148,290" fill="rgba(74,144,217,0.5)" stroke="none"/>
-  <polygon points="232,290 240,282 240,292 232,300" fill="rgba(74,144,217,0.25)" stroke="none"/>
-  <rect x="148" y="290" width="84" height="10" rx="4" fill="url(#glow)" opacity="0.3"/>
-  <text x="190" y="276" text-anchor="middle" fill="#4a90d9" font-family="system-ui,-apple-system,sans-serif" font-size="15" font-weight="800">380</text>
+  <rect x="148" y="255" width="84" height="45" rx="4" fill="#4a90d9"/>
+  <polygon points="156,247 240,247 232,255 148,255" fill="rgba(74,144,217,0.5)" stroke="none"/>
+  <polygon points="232,255 240,247 240,292 232,300" fill="rgba(74,144,217,0.25)" stroke="none"/>
+  <rect x="148" y="255" width="84" height="45" rx="4" fill="url(#glow)" opacity="0.3"/>
+  <text x="190" y="241" text-anchor="middle" fill="#4a90d9" font-family="system-ui,-apple-system,sans-serif" font-size="15" font-weight="800">380</text>
   <text x="190" y="318" text-anchor="middle" fill="#8b98a5" font-family="system-ui,-apple-system,sans-serif" font-size="11">Pull Requests</text>
-  <rect x="248" y="287" width="84" height="13" rx="4" fill="#d67964"/>
-  <polygon points="256,279 340,279 332,287 248,287" fill="rgba(214,121,100,0.5)" stroke="none"/>
-  <polygon points="332,287 340,279 340,292 332,300" fill="rgba(214,121,100,0.25)" stroke="none"/>
-  <rect x="248" y="287" width="84" height="13" rx="4" fill="url(#glow)" opacity="0.3"/>
-  <text x="290" y="273" text-anchor="middle" fill="#d67964" font-family="system-ui,-apple-system,sans-serif" font-size="15" font-weight="800">489</text>
+  <rect x="248" y="249" width="84" height="51" rx="4" fill="#d67964"/>
+  <polygon points="256,241 340,241 332,249 248,249" fill="rgba(214,121,100,0.5)" stroke="none"/>
+  <polygon points="332,249 340,241 340,292 332,300" fill="rgba(214,121,100,0.25)" stroke="none"/>
+  <rect x="248" y="249" width="84" height="51" rx="4" fill="url(#glow)" opacity="0.3"/>
+  <text x="290" y="235" text-anchor="middle" fill="#d67964" font-family="system-ui,-apple-system,sans-serif" font-size="15" font-weight="800">489</text>
   <text x="290" y="318" text-anchor="middle" fill="#8b98a5" font-family="system-ui,-apple-system,sans-serif" font-size="11">Issues</text>
   <rect x="348" y="298" width="84" height="2" rx="4" fill="#e60049"/>
   <polygon points="356,290 440,290 432,298 348,298" fill="rgba(230,0,73,0.5)" stroke="none"/>
