@@ -1,4 +1,4 @@
-<!-- ================= HERO · LIQUID GLASS ================= -->
+<!-- ================= HERO ================= -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/main/header.svg" alt="Aarush Karak — Software Developer" width="800" />
 </p>
@@ -11,21 +11,28 @@
 
 <br/>
 
-<!-- ================= ABOUT ================= -->
+## About
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/main/about.svg" alt="About Aarush Karak" width="800" />
 </p>
 
 <br/>
 
-<!-- ================= HACKATIME ================= -->
+## Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/main/radar.svg" alt="Contribution Breakdown" width="800" />
+</p>
+
+<br/>
+
 <p align="center">
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=37409&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Hackatime Stats" />
 </p>
 
 <br/>
 
-<!-- ================= CONTRIBUTION GRAPH ================= -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3ni8ma/3ni8ma/output/github-snake-dark.svg" />
@@ -42,14 +49,24 @@
 
 <br/>
 
-<!-- ================= SKILLS ================= -->
+## Experience
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/main/experience.svg" alt="Experience Timeline" width="800" />
+</p>
+
+<br/>
+
+## Skills
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,java,cpp,react,nodejs,threejs,postgres,arduino,tailwind,vite&perline=7&theme=dark" alt="Skills" />
 </p>
 
 <br/>
 
-<!-- ================= FOOTER ================= -->
+## Let's Connect
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/main/footer.svg" alt="Let's build something extraordinary together" width="800" />
 </p>
