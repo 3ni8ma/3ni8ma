@@ -17,6 +17,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Recolor to liquid glass theme
+        run: python3 .github/scripts/recolor-3d.py
       - name: Commit & Push
         run: |
           git config user.name github-actions
