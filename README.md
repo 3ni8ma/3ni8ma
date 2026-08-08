@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3000&pause=800&color=00F2FE&center=true&vCenter=true&width=560&lines=Software+Developer;Full-Stack+%26+Spatial+Computing;Founder+%40+The+Coder+Bros;Platform+Engineer+%40+Hack+Club" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3000&pause=800&color=00F2FE&center=true&vCenter=true&width=560&lines=Software+Developer;Full-Stack+%26+Spatial+Computing;Founder+%40+The+Coder+Bros" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,12 +23,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/main/radar.svg" alt="Contribution Breakdown" width="800" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=37409&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Hackatime Stats" />
 </p>
 
 <br/>
