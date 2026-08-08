@@ -41,6 +41,10 @@
 <text x="120" y="94" fill="#fff" font-family="system-ui, sans-serif" font-size="14" font-weight="600">Founder — The Coder Bros</text>
 <text x="120" y="112" fill="#8b98a5" font-family="system-ui, sans-serif" font-size="12">Jun 2025 — Present</text>
 <text x="120" y="132" fill="#c8d2dc" font-family="system-ui, sans-serif" font-size="12">Teaching coding to 1000+ students. Building full-stack educational platform.</text>
+<circle cx="100" cy="170" r="6" fill="#4a90d9"/>
+<text x="120" y="174" fill="#fff" font-family="system-ui, sans-serif" font-size="14" font-weight="600">App Developer — Hack Club</text>
+<text x="120" y="192" fill="#8b98a5" font-family="system-ui, sans-serif" font-size="12">2024 — Present</text>
+<text x="120" y="212" fill="#c8d2dc" font-family="system-ui, sans-serif" font-size="12">Developing apps and contributing to the Hack Club community.</text>
 <circle cx="100" cy="250" r="6" fill="#d67964"/>
 <text x="120" y="254" fill="#fff" font-family="system-ui, sans-serif" font-size="14" font-weight="600">Open Source Developer</text>
 <text x="120" y="272" fill="#8b98a5" font-family="system-ui, sans-serif" font-size="12">2024 — Present</text>
