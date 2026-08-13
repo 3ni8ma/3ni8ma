@@ -28,12 +28,6 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=37409&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Hackatime Stats" />
-</p>
-
-<br/>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=3ni8ma&show_icons=true&theme=darcula&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3ni8ma&layout=compact&theme=darcula&hide_border=true" alt="Top Languages" />
 </p>
