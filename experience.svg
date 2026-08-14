@@ -26,6 +26,10 @@
     <stop offset="0%" stop-color="#7fb2ff" stop-opacity="0.10"/>
     <stop offset="55%" stop-color="#7fb2ff" stop-opacity="0"/>
   </linearGradient>
+  <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#ffffff" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+  </linearGradient>
 </defs>
 <rect x="10" y="14" width="780" height="378" rx="22" fill="#000000" opacity="0.4" filter="url(#shadow-blur)"/>
 <rect x="1.5" y="1.5" width="797" height="397" rx="19" fill="none" stroke="url(#border-grad)" stroke-width="1.5"/>
