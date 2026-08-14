@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-"""Recolor the generated 3D contribution SVG to the liquid glass theme.
+"""Recolor the generated 3D contribution SVG to the cyber teal theme.
 
 The github-profile-3d-contrib action regenerates profile-night-rainbow.svg
-daily with a rainbow hue cycle. This script rewrites its CSS to the site's
-palette: dark #0d1117 background, cyan -> blue -> crimson -> coral aurora
-cycle, keeping the animation structure intact.
+daily with a rainbow hue cycle. This script rewrites its CSS to the profile
+palette: dark obsidian #0d1117 background, cyber teal -> deep cherry aurora
+cycle (#00F5D4 -> #FF0055), keeping the animation structure intact.
 """
 import re
 
@@ -12,12 +12,12 @@ SVG = "profile-3d-contrib/profile-night-rainbow.svg"
 
 # Aurora hue cycle (6 stops, 100% wraps to stop 0)
 STOPS = [
-    (0, 110, 130),    # deep teal
-    (0, 170, 190),    # teal
-    (0, 242, 254),    # cyan
-    (74, 144, 217),   # blue
-    (230, 0, 73),     # crimson
-    (214, 121, 100),  # coral
+    (0, 245, 212),    # cyber teal
+    (64, 255, 228),   # bright teal
+    (0, 210, 185),    # deep teal
+    (255, 0, 85),     # deep cherry
+    (204, 0, 68),     # dark cherry
+    (120, 0, 45),     # deep plum
 ]
 
 # Activity level brightness (l0 quiet -> l4 intense)
@@ -67,16 +67,16 @@ def main():
 
     svg = svg.replace(".fill-bg { fill: #00000f; }", ".fill-bg { fill: #0d1117; }")
     svg = svg.replace(".stroke-bg { stroke: #00000f; }", ".stroke-bg { stroke: #0d1117; }")
-    svg = svg.replace(".fill-fg { fill: #eeeeff; }", ".fill-fg { fill: #c8d2dc; }")
-    svg = svg.replace(".stroke-fg { stroke: #eeeeff; }", ".stroke-fg { stroke: #c8d2dc; }")
+    svg = svg.replace(".fill-fg { fill: #eeeeff; }", ".fill-fg { fill: #c9d1d9; }")
+    svg = svg.replace(".stroke-fg { stroke: #eeeeff; }", ".stroke-fg { stroke: #c9d1d9; }")
     svg = svg.replace(".fill-weak { fill: #aaaaaa; }", ".fill-weak { fill: #8b98a5; }")
     svg = svg.replace(".stroke-weak { stroke: #aaaaaa; }", ".stroke-weak { stroke: #8b98a5; }")
-    svg = svg.replace("rgb(255,200,55)", "rgb(0,242,254)")
-    svg = svg.replace("rgb(255, 200, 55)", "rgb(0, 242, 254)")
+    svg = svg.replace("rgb(255,200,55)", "rgb(0,245,212)")
+    svg = svg.replace("rgb(255, 200, 55)", "rgb(0, 245, 212)")
 
     with open(SVG, "w") as f:
         f.write(svg)
-    print(f"Recolored {SVG} to liquid glass theme")
+    print(f"Recolored {SVG} to cyber teal theme")
 
 
 if __name__ == "__main__":
