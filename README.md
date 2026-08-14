@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/main/assets/banner.svg" alt="banner" width="100%" />
+
 # Hey there, I'm Aarush Karak 👋
 
 <a href="https://readme-typing-svg.demolab.com">
@@ -65,5 +67,7 @@
 <p align="center">
   <img height="165" src="https://grs-3ni8ma.vercel.app/api/top-langs/?username=3ni8ma&layout=compact&theme=dark&title_color=00f5d4&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&v=2" alt="Top Languages" />
 </p>
+
+<img src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/main/assets/footer.svg" alt="footer" width="100%" />
 
 </div>
