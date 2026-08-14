@@ -28,17 +28,10 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3ni8ma&show_icons=true&theme=darcula&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3ni8ma&layout=compact&theme=darcula&hide_border=true" alt="Top Languages" />
-</p>
-
-<br/>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3ni8ma/3ni8ma/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3ni8ma/3ni8ma/output/github-snake.svg" />
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/output/github-snake-dark.svg" width="780" />
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/output/github-snake.svg" width="780" />
   </picture>
 </p>
 
@@ -76,7 +69,7 @@
   <a href="https://aarushkarak.vercel.app"><img src="https://img.shields.io/badge/VISIT_PORTFOLIO-aarushkarak.vercel.app-00f2fe?style=for-the-badge&labelColor=0d1117" alt="Portfolio" /></a>
   <a href="https://github.com/3ni8ma"><img src="https://img.shields.io/badge/GitHub-3ni8ma-00f2fe?style=for-the-badge&labelColor=0d1117" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/aarush-karak/"><img src="https://img.shields.io/badge/LinkedIn-aarushkarak-4a90d9?style=for-the-badge&labelColor=0d1117" alt="LinkedIn" /></a>
-  <a href="https://thecoderbros.vercel.app"><img src="https://img.shields.io/badge/The_Coder_Bros-thecoderbros.com-e60049?style=for-the-badge&labelColor=0d1117" alt="The Coder Bros" /></a>
+  <a href="https://thecoderbros.vercel.app"><img src="https://img.shields.io/badge/The_Coder_Bros-thecoderbros.vercel.app-e60049?style=for-the-badge&labelColor=0d1117" alt="The Coder Bros" /></a>
   <a href="https://www.kaggle.com/aarushkarak"><img src="https://img.shields.io/badge/Kaggle-aarushkarak-20beff?style=for-the-badge&labelColor=0d1117" alt="Kaggle" /></a>
   <a href="https://www.credly.com/users/aarush-karak"><img src="https://img.shields.io/badge/Credly-aarushkarak-ff6b00?style=for-the-badge&labelColor=0d1117" alt="Credly" /></a>
   <a href="https://www.instagram.com/3ni8ma_rush/"><img src="https://img.shields.io/badge/Instagram-3ni8ma_rush-E4405F?style=for-the-badge&labelColor=0d1117" alt="Instagram" /></a>
