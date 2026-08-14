@@ -59,7 +59,7 @@
 
 <p align="center">
   <img height="165" src="https://grs-3ni8ma.vercel.app/api?username=3ni8ma&show_icons=true&theme=dark&title_color=00f5d4&text_color=c9d1d9&icon_color=ff0055&bg_color=0d1117&border_color=30363d&v=2" alt="Aarush's Stats" />
-  <img height="165" src="https://grs-3ni8ma.vercel.app/api/streak?user=3ni8ma" alt="Aarush's Streak" />
+  <img height="165" src="https://grs-3ni8ma.vercel.app/api/streak?user=3ni8ma&v=2" alt="Aarush's Streak" />
 </p>
 
 <p align="center">
