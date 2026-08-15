@@ -46,7 +46,7 @@
 ### 📊 GitHub Activity & 3D Analytics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=3ni8ma&style=flat-square&color=00F5D4&label=PROFILE+VIEWS&base=10000" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=3ni8ma&style=flat-square&color=00F5D4&label=PROFILE+VIEWS&base=145281" alt="Profile Views" />
 </p>
 
 #### 🌐 3D Contribution View
