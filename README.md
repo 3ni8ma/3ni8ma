@@ -5,7 +5,7 @@
 # Hey there, I'm Aarush Karak 👋
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+%26+3D+Web+Developer;Co-Founder+%40+The+Coder+Bros;Back+End+Dev+%40+CommunityOne;Building+AI+%26+Spatial+Computing+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=DE3163&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+%26+3D+Web+Developer;Co-Founder+%40+The+Coder+Bros;Back+End+Dev+%40+CommunityOne;Building+AI+%26+Spatial+Computing+Apps" alt="Typing SVG" />
 </a>
 
 <p align="center">
