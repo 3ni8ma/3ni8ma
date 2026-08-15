@@ -9,10 +9,10 @@
 </a>
 
 <p align="center">
-  <a href="https://aarushkarak.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00F5D4?style=for-the-badge&logo=vercel&logoColor=000&labelColor=0D1117" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/aarush-karak"><img src="https://img.shields.io/badge/LinkedIn-FF0055?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=0D1117" alt="LinkedIn" /></a>
-  <a href="https://kaggle.com/aarushkarak"><img src="https://img.shields.io/badge/Kaggle-00F5D4?style=for-the-badge&logo=kaggle&logoColor=fff&labelColor=0D1117" alt="Kaggle" /></a>
-  <a href="https://thecoderbros.vercel.app"><img src="https://img.shields.io/badge/The_Coder_Bros-FF0055?style=for-the-badge&logo=codeforces&logoColor=fff&labelColor=0D1117" alt="The Coder Bros" /></a>
+  <a href="https://aarushkarak.vercel.app/"><img src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/main/assets/badges/portfolio.svg" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/aarush-karak"><img src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/main/assets/badges/linkedin.svg" alt="LinkedIn" /></a>
+  <a href="https://kaggle.com/aarushkarak"><img src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/main/assets/badges/kaggle.svg" alt="Kaggle" /></a>
+  <a href="https://thecoderbros.vercel.app"><img src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/main/assets/badges/the-coder-bros.svg" alt="The Coder Bros" /></a>
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ### 📊 GitHub Activity & 3D Analytics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=3ni8ma&style=flat-square&color=00F5D4&label=PROFILE+VIEWS&base=145281" alt="Profile Views" />
+  <img src="https://aarushkarak.vercel.app/api/views-badge" alt="Profile Views" />
 </p>
 
 #### 🌐 3D Contribution View
