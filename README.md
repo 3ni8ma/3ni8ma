@@ -1,77 +1,55 @@
-<div align="center">
+<h1>Hi, I'm Aarush Karak</h1>
 
-<img src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/main/assets/banner.svg" alt="banner" width="100%" />
+<p>
+  Developer building at the intersection of AI, open source, and spatial computing.  
+  I contribute to projects that push human-computer interaction forward — from AI automation platforms to immersive 3D experiences.
+</p>
 
-# Hey there, I'm Aarush Karak 👋
-
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=DE3163&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+%26+3D+Web+Developer;Co-Founder+%40+The+Coder+Bros;Back+End+Dev+%40+CommunityOne;Building+AI+%26+Spatial+Computing+Apps" alt="Typing SVG" />
-</a>
-
-<p align="center">
-  <a href="https://aarushkarak.vercel.app/"><img src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/main/assets/badges/portfolio.svg" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/aarush-karak"><img src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/main/assets/badges/linkedin.svg" alt="LinkedIn" /></a>
-  <a href="https://kaggle.com/aarushkarak"><img src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/main/assets/badges/kaggle.svg" alt="Kaggle" /></a>
-  <a href="https://thecoderbros.vercel.app"><img src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/main/assets/badges/the-coder-bros.svg" alt="The Coder Bros" /></a>
+<p>
+  <a href="https://linkedin.com/in/aarush-karak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://aarushkarak.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-333?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
 
-### 🚀 About Me
+## Featured Projects
 
-</div>
-
-* **🔭 Current Focus:** Building open-source civic tools at **CommunityOne** & leading **The Coder Bros**.
-* **🛠️ Technical Specialization:** Full-Stack Web Development, 3D Graphics (Three.js), and Machine Learning.
-* **🏆 Achievements:** 1st Place Video Game 3D Design (TSA State) | Abacus Grand Master.
-* **🎹 Outside Coding:** Pianist, competitive badminton player, and avid football fan.
-
-<br />
-
-<div align="center">
-
-### 💻 Tech Stack & Tools
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00F5D4)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00F5D4)
-![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=00F5D4)
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=FF0055)
-![Three.js](https://img.shields.io/badge/Three.js-0D1117?style=flat-square&logo=threedotjs&logoColor=FF0055)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0D1117?style=flat-square&logo=google&logoColor=FF0055)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=00F5D4)
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=FF0055)
+| Project | Description |
+|---------|-------------|
+| [**Knowledge-Globe**](https://github.com/3ni8ma/Knowledge-Globe) | 3D interactive encyclopedia with hand tracking, neural view, and real-time knowledge exploration using Three.js. |
+| [**localmind**](https://github.com/3ni8ma/localmind) | Offline AI assistant with RAG, streaming, plugin system, Docker support, and 30+ tests across 8 languages. |
+| [**cli-tool/arkit**](https://github.com/3ni8ma/cli-tool) | CLI scaffolding tool for React + Vite, published to npm. |
+| [**Grainlify-Frontend**](https://github.com/3ni8ma/Grainlify-Frontend) | Open-source contribution platform connecting developers to projects. |
 
 ---
 
-### 📊 GitHub Activity & 3D Analytics
+## Tech Stack
 
-<p align="center">
-  <img src="https://aarushkarak.vercel.app/api/views-badge" alt="Profile Views" />
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white" alt="Three.js">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=flat&logo=ollama&logoColor=black" alt="Ollama">
 </p>
-
-#### 🌐 3D Contribution View
-<img src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
-
-#### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3ni8ma/3ni8ma/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3ni8ma/3ni8ma/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
-### 📈 Coding Metrics
+## Currently Working On
 
-<p align="center">
-  <img height="165" src="https://grs-3ni8ma.vercel.app/api?username=3ni8ma&show_icons=true&theme=dark&title_color=00f5d4&text_color=c9d1d9&icon_color=ff0055&bg_color=0d1117&border_color=30363d&v=2" alt="Aarush's Stats" />
-  <img height="165" src="https://grs-3ni8ma.vercel.app/api/streak?user=3ni8ma&v=2" alt="Aarush's Streak" />
-</p>
+- Contributing to **heym** — a 950-star AI automation platform
+- Expanding **Knowledge-Globe** with new data sources and interaction modes
+- Building tools that make AI accessible without cloud dependencies
 
-<p align="center">
-  <img height="165" src="https://grs-3ni8ma.vercel.app/api/top-langs/?username=3ni8ma&layout=compact&theme=dark&title_color=00f5d4&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&v=2" alt="Top Languages" />
-</p>
+## Open To
 
-<img src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/main/assets/footer.svg" alt="footer" width="100%" />
+- Open source collaborations
+- AI/ML and spatial computing projects
+- Developer tooling and CLI projects
 
-</div>
+---
+
+<p><i>"Shipping code that matters, one commit at a time."</i></p>
