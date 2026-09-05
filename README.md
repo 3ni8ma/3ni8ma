@@ -30,6 +30,27 @@
 
 <div align="center">
 
+### 🔥 Featured Builds
+
+</div>
+
+| Project | What it is | Links |
+|---------|------------|-------|
+| **HELIOS** | Browser-based AI OS with touch-free hand-gesture navigation and a 3D spatial interface (Three.js + MediaPipe) | [Live Demo](https://helios-psi-three.vercel.app) · [Repo](https://github.com/3ni8ma/HELIOS) |
+| **Finance Hub** | Full-stack financial intelligence — live market monitoring, AI predictions, real-time dashboards | [Repo](https://github.com/3ni8ma/Finance-Hub) |
+| **astro-tasks** | Python CLI developer dashboard on PyPI — GitHub CLI, git health checks, stats (NASA x GitHub x AMD Stardance) | [PyPI](https://pypi.org/project/astro-tasks/) · [Repo](https://github.com/3ni8ma/astro-tasks) |
+| **Knowledge-Globe** | Interactive 3D encyclopedia — knowledge networks on a rotatable 3D globe | [Live Demo](https://knowledge-globe.vercel.app) · [Repo](https://github.com/3ni8ma/Knowledge-Globe) |
+| **vite-plugin-sitemap** | Vite plugin that auto-generates sitemap.xml + robots.txt on build | [npm](https://www.npmjs.com/package/@3ni8ma/vite-plugin-sitemap) · [Repo](https://github.com/3ni8ma/vite-plugin) |
+| **tailwind-plugin** | Tailwind utilities — glassmorphism, text gradients, glow effects, design tokens | [npm](https://www.npmjs.com/package/@3ni8ma/tailwind-plugin) · [Repo](https://github.com/3ni8ma/tailwind-plugin) |
+
+<div align="center">
+
+*If a build helped or inspired you, a ⭐ on the repo is the best thanks — it keeps me shipping.*
+
+<br />
+
+<div align="center">
+
 ### 💻 Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00F5D4)
