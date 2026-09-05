@@ -46,7 +46,7 @@
 <circle cx="540" cy="171" r="3" fill="#e60049"/>
 <text x="550" y="175" fill="#c8d2dc" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="12">Building liquid interfaces</text>
   <rect x="70" y="200" width="150" height="52" rx="13" fill="#ffffff" opacity="0.045" stroke="#ffffff" stroke-opacity="0.14"/>
-  <text x="145" y="223" text-anchor="middle" fill="#00f2fe" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="17" font-weight="700">16667</text>
+  <text x="145" y="223" text-anchor="middle" fill="#00f2fe" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="17" font-weight="700">16675</text>
   <text x="145" y="240" text-anchor="middle" fill="#8b98a5" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="9" letter-spacing="1.5">CONTRIBUTIONS</text>
   <rect x="240" y="200" width="150" height="52" rx="13" fill="#ffffff" opacity="0.045" stroke="#ffffff" stroke-opacity="0.14"/>
   <text x="315" y="223" text-anchor="middle" fill="#4a90d9" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="17" font-weight="700">18</text>
