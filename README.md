@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/main/assets/banner.svg" alt="banner" width="100%" />
 
-# Hey there, I'm Aarush Karak 👋
+# Hey there, I'm Aarush Karak
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=DE3163&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+%26+3D+Web+Developer;Co-Founder+%40+The+Coder+Bros;Back+End+Dev+%40+CommunityOne;Building+AI+%26+Spatial+Computing+Apps" alt="Typing SVG" />
@@ -17,20 +17,16 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-</div>
+* **Current Focus:** Building open-source civic tools at **CommunityOne** & leading **The Coder Bros**.
+* **Technical Specialization:** Full-Stack Web Development, 3D Graphics (Three.js), and Machine Learning.
+* **Achievements:** 1st Place Video Game 3D Design (TSA State) | Abacus Grand Master.
+* **Outside Coding:** Pianist, competitive badminton player, and avid football fan.
 
-* **🔭 Current Focus:** Building open-source civic tools at **CommunityOne** & leading **The Coder Bros**.
-* **🛠️ Technical Specialization:** Full-Stack Web Development, 3D Graphics (Three.js), and Machine Learning.
-* **🏆 Achievements:** 1st Place Video Game 3D Design (TSA State) | Abacus Grand Master.
-* **🎹 Outside Coding:** Pianist, competitive badminton player, and avid football fan.
+---
 
-<br />
-
-<div align="center">
-
-### 💻 Tech Stack & Tools
+### Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00F5D4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00F5D4)
@@ -43,16 +39,16 @@
 
 ---
 
-### 📊 GitHub Activity & 3D Analytics
+### GitHub Activity & 3D Analytics
 
 <p align="center">
   <img src="https://aarushkarak.vercel.app/api/views-badge" alt="Profile Views" />
 </p>
 
-#### 🌐 3D Contribution View
+### 3D Contribution View
 <img src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 
-#### 🐍 Contribution Snake
+### Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3ni8ma/3ni8ma/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3ni8ma/3ni8ma/output/github-contribution-grid-snake.svg">
@@ -61,7 +57,7 @@
 
 ---
 
-### 📈 Coding Metrics
+### Coding Metrics
 
 <p align="center">
   <img height="165" src="https://github-stats.vercel.app/api?username=3ni8ma&show_icons=true&title_color=FF0055&text_color=00F5D4&icon_color=FF0055&bg_color=0d1117&border_color=30363d" alt="Aarush's Stats" />
