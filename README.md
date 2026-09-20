@@ -64,12 +64,12 @@
 ### 📈 Coding Metrics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=3ni8ma&show_icons=true&theme=dark&title_color=00F5D4&text_color=c9d1d9&icon_color=ff0055&bg_color=0d1117&border_color=30363d" alt="Aarush's Stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=3ni8ma&show_icons=true&title_color=FF0055&text_color=00F5D4&icon_color=FF0055&bg_color=0d1117&border_color=30363d" alt="Aarush's Stats" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=3ni8ma&theme=dark&border=30363d&background=0d1117&ring=FF0055&fire=FF0055&currStreakNum=00F5D4&currStreakLabel=00F5D4&dates=00F5D4" alt="Aarush's Streak" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3ni8ma&layout=compact&theme=dark&title_color=00F5D4&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" alt="Top Languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=3ni8ma&layout=compact&title_color=FF0055&text_color=00F5D4&icon_color=FF0055&bg_color=0d1117&border_color=30363d" alt="Top Languages" />
 </p>
 
 <img src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/main/assets/footer.svg" alt="footer" width="100%" />
