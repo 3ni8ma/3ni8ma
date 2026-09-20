@@ -64,8 +64,8 @@
 ### 📈 Coding Metrics
 
 <p align="center">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=3ni8ma&theme=radical" alt="Aarush's Stats" />
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=3ni8ma&theme=dark&border=30363d&background=0d1117&ring=FF0055&fire=FF0055&currStreakNum=00F5D4&currStreakLabel=00F5D4&dates=00F5D4" alt="Streak Stats" />
+  <img height="165" src="https://github-stats.vercel.app/api?username=3ni8ma&show_icons=true&title_color=FF0055&text_color=00F5D4&icon_color=FF0055&bg_color=0d1117&border_color=30363d" alt="Aarush's Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=3ni8ma&theme=dark&border=30363d&background=0d1117&ring=FF0055&fire=FF0055&currStreakNum=00F5D4&currStreakLabel=00F5D4&dates=00F5D4" alt="Aarush's Streak" />
 </p>
 
 <img src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/main/assets/footer.svg" alt="footer" width="100%" />
