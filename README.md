@@ -64,12 +64,12 @@
 ### 📈 Coding Metrics
 
 <p align="center">
-  <img height="165" src="https://grs-3ni8ma.vercel.app/api?username=3ni8ma&show_icons=true&theme=dark&title_color=00f5d4&text_color=c9d1d9&icon_color=ff0055&bg_color=0d1117&border_color=30363d&v=2" alt="Aarush's Stats" />
-  <img height="165" src="https://grs-3ni8ma.vercel.app/api/streak?user=3ni8ma&v=2" alt="Aarush's Streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=3ni8ma&show_icons=true&theme=dark&title_color=00f5d4&text_color=c9d1d9&icon_color=ff0055&bg_color=0d1117&border_color=30363d" alt="Aarush's Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=3ni8ma&theme=dark&border=30363d&background=0d1117&ring=00f5d4&fire=ff0055&currStreakLabel=00f5d4" alt="Aarush's Streak" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://grs-3ni8ma.vercel.app/api/top-langs/?username=3ni8ma&layout=compact&theme=dark&title_color=00f5d4&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&v=2" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3ni8ma&layout=compact&theme=dark&title_color=00f5d4&text_color=c9d1d9&icon_color=ff0055&bg_color=0d1117&border_color=30363d" alt="Top Languages" />
 </p>
 
 <img src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/main/assets/footer.svg" alt="footer" width="100%" />
