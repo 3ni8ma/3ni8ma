@@ -64,9 +64,8 @@
 ### 📈 Coding Metrics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Contributions-19985-FF0055?style=for-the-badge&logo=github&logoColor=00F5D4" alt="Total Contributions" />
-  <img src="https://img.shields.io/badge/Commits-1240-FF0055?style=for-the-badge&logo=git&logoColor=00F5D4" alt="Total Commits" />
-  <img src="https://img.shields.io/badge/Pull%20Requests-47-00F5D4?style=for-the-badge&logo=github&logoColor=FF0055" alt="Total PRs" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=3ni8ma&theme=dark" alt="Aarush's Stats" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3ni8ma&theme=dark" alt="Aarush's Profile Details" />
 </p>
 
 <p align="center">
