@@ -70,8 +70,6 @@
 
 <p align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=3ni8ma&layout=compact&title_color=FF0055&text_color=00F5D4&icon_color=FF0055&bg_color=0d1117&border_color=30363d" alt="Top Languages" />
-  <img height="120" src="https://github-stats-extended.vercel.app/api/wakatime?username=3ni8ma&theme=dark" alt="WakaTime Stats" />
-  <img height="120" src="https://github-stats-extended.vercel.app/api/gist?username=3ni8ma" alt="Gist Stats" />
 </p>
 
 <img src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/main/assets/footer.svg" alt="footer" width="100%" />
