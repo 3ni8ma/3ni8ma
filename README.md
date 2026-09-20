@@ -64,19 +64,12 @@
 ### 📈 Coding Metrics
 
 <p align="center">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=3ni8ma&theme=dark" alt="Aarush's Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=3ni8ma&show_icons=true&theme=dark&title_color=00F5D4&text_color=00F5D4&icon_color=FF0055&bg_color=0d1117&border_color=30363d" alt="Aarush's Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=3ni8ma&theme=dark&border=30363d&background=0d1117&ring=FF0055&fire=FF0055&currStreakNum=00F5D4&currStreakLabel=00F5D4&dates=00F5D4" alt="Aarush's Streak" />
 </p>
 
 <p align="center">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3ni8ma&theme=dark" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Top_Languages-PythonJavaScript_TypeScript-0D1117?style=for-the-badge&logo=python&logoColor=00F5D4" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3ni8ma&theme=dark&border=30363d&background=0d1117&ring=FF0055&fire=FF0055&currStreakNum=00F5D4&currStreakLabel=00F5D4&dates=00F5D4" alt="Streak Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3ni8ma&layout=compact&theme=dark&title_color=00F5D4&text_color=00F5D4&icon_color=FF0055&bg_color=0d1117&border_color=30363d" alt="Top Languages" />
 </p>
 
 <img src="https://raw.githubusercontent.com/3ni8ma/3ni8ma/main/assets/footer.svg" alt="footer" width="100%" />
